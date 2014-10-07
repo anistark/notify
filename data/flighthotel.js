@@ -1,0 +1,1 @@
+alert('Flight + Hotel got');
