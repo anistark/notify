@@ -1,1 +1,1 @@
-document.getElementById('foot_sticky').innerHTML = '<span class="prego">Something</span>';
+$('#foot_sticky').after('<div id="created_div" >Hello World!!</div>');
