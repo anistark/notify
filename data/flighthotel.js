@@ -1,1 +1,1 @@
-alert('Flight + Hotel got');
+alert('Flight + Hotel got. Coming soon!!');
