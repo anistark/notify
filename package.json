@@ -2,8 +2,8 @@
   "name": "notify",
   "title": "notify",
   "id": "jid1-epoVJ4n5r7vxBA",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Firefox add-on for Rideshare.",
+  "author": "Kumar Anirudha",
   "license": "MPL 2.0",
   "version": "0.1"
 }
